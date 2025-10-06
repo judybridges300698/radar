@@ -126,3 +126,5 @@ This way, template contributors can use python, which has one of the fastest pro
 On top of that we add some "magic" around the rule, for example, to have it already hold the parsed `ast` data without writing anything. we also added functionalities and iterators to be able to abstractly express the analysis.
 
 This gives a lot of power to the rule writer to use for loops, nested for loops, try/except blocks, and much more, out of the box.
+
+<!-- Auto-update: 2025-10-06T13:44:31.114704 -->
